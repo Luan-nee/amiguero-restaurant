@@ -1,0 +1,15 @@
+{
+  "name": "aprendiendo-node",
+  "version": "1.0.0",
+  "description": "Esta es una description que la consola de vs nos pide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luan del sol huillca sánchez",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
